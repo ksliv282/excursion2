@@ -13,6 +13,8 @@ h1{
 h2 {
   color: Aquamarine;
   font-size:16px;
+
+}
 }
 h3 {
   color: white;
@@ -21,7 +23,13 @@ h3 {
 
 }
 h4{
-  color: grey;
+  color: gray;
   font-size: 21px;
 
+
+}
+#copyright {
+  color: gray;
+  font-size: 21px;
+  text-align: right;
 }
